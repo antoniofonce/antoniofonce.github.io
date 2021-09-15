@@ -1,8 +1,8 @@
 body{
-    background:greenyellow;
+    background:rgb(43, 116, 158);
     font-family:sans-serif;
     }
 h1{
-    color: dimgray;
+    color: rgb(102, 34, 34);
     text-align:center;
-}
+    }
