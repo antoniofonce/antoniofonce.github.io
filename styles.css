@@ -2,6 +2,16 @@ body{
     background:rgb(43, 116, 158);
     font-family:sans-serif;
     }
+    .assignment{
+        display:flex;
+        padding:10px;
+        margin:10px;
+        background:lightskyblue;
+    }
+    .assignment img{
+        width:200px;
+        padding:10px;
+    }
 h1{
     color: rgb(102, 34, 34);
     text-align:center;
